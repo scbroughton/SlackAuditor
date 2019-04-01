@@ -11,10 +11,10 @@ This script was created in order to automate a specific report at work, so it's 
 * After the program runs, you'll be prompted to save your settings into a config file to simplify future runs of the program.
 
 ### Prerequisites
-[Python 2](https://www.python.org/downloads/)
-[Pip](https://pypi.org/project/pip/)
-[SlackClient](https://pypi.org/project/slackclient/)
-[OpenPyXL](https://pypi.org/project/openpyxl/)
+* [Python 2](https://www.python.org/downloads/)
+* [Pip](https://pypi.org/project/pip/)
+* [SlackClient](https://pypi.org/project/slackclient/)
+* [OpenPyXL](https://pypi.org/project/openpyxl/)
 
 ### Usage
     slack_audit.py [-h] [--debug] [--version] [-f INITFILE] [-c CHANNNEL]
